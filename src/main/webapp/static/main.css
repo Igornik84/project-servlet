@@ -1,0 +1,10 @@
+
+td  {
+    border: 5px solid #91206b;
+    padding: 5px;
+    background-color: #91bbd5;
+    width: 150px;
+    height: 150px;
+    font-size: 20px;
+    text-align: center;
+}
